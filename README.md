@@ -31,3 +31,14 @@ Year: Add the year the game was released, in case of remakes or different enough
 Genre: what it says
 
 Languages: Languages you can play the game in, but for example, if the game has a different version that includes some languages and not others (like USA and PAL console games versions) add ALL THE LANGUAGES the game can be played in (in this case, all the USA avaliable languages and all the PAL avaliable languages)
+
+Reading, Listening, Writing, Speaking: If the game trains any of those habilities, reading would be if it has text, listening if it has dialogs, writing if you have to write and speaking if you have to speak
+
+Local/Online Multiplayer: Local is if 2 people can play in the same device/place (using for example: Game Share) and online if you can play with people around the world
+
+Text/voice chat: If you can communicate with other people in the game by text, voice or both
+
+Wifi Required: Some games require wifi to be played, other have online multiplayer but also offline campaigns, so if it REQUIRES wifi to be played is yes, if it doesn't it's not
+
+Language Level: If the game has confusing and complex vocabulary, it gets a higher score, but if it's very simple, like a Peppa Pig game, it gest a lower one.
+0 would be for NO VOCABULARY, in which case the game doesn't feature languages, so it's not allowed to be in The List, the games have to have text, or any form of language, which makes me remember, games without much text, like for example Cuphead, would get a low level, because it almost doesn't feature any text, is mostly gameplay
