@@ -1,6 +1,7 @@
 LA LISTA
 
 VIVA CRISTO REY
+
 Buenos días apreciados humanos
 Me presento: no soy nadie, solo un chico a quien le gustan los idiomas. (@jocsh123 en YouTube)
 Al revivir el canal de InfoPrimates, me sentí con una felicidad que no había sentido desde su último video, y ellos no me decepcionaron. Su video: No estudies idiomas, juega videojuegos me abrió la mente.
