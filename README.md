@@ -15,3 +15,19 @@ Recomendaría recomendarlos específicando para qué plataforma es el juego, el 
 
 Lamento pedir la ayuda, y no brindarla, pero como dijo Don Ramón cuando le "compró" los boletos de lotería al Chavo en el capítulo en el que gana la lotería:
 Hoy por mí, mañana por tí
+
+
+
+
+CATEGORÍAS:
+Name: Name of the game
+
+Platforms: Platforms the game is avaliable LEGALLY. I mean, Super Mario Bros. for the NES is technically availiable in PC via emulator, but that doesn't count, so you would say: NES, SNES (remake), Nintendo Switch (Nintendo Switch Online)
+
+Free: If the game is free or has to be payed for, add Kinda if the game can be obtained both ways, for example: Super Mario Bros. needs to be bought for be played, but it can also be played for free in the Nintendo Switch, so it's: Kinda. DON'T CONSIDER IF THE GAME CAN BE EMULATED, WE DON'T WANT THIS TO BE TAKEN DOWN, so if a game is just avaliable with a cartridge and a console, but it's emulable, say: NO, who reads it can find it out by himself, BUT THE LIST HAS TO BE CLEAN
+
+Year: Add the year the game was released, in case of remakes or different enough ports (for example: Jurassic Park for SNES and Sega Genesis are completely different games, so they would be considered 2 different games, as well for remakes) they will be considered as 2 different games, so write the year the port/remake was published, but if the game has ports that are not different, so they'd be considered the same game, write the publish year of the 1st version/port
+
+Genre: what it says
+
+Languages: Languages you can play the game in, but for example, if the game has a different version that includes some languages and not others (like USA and PAL console games versions) add ALL THE LANGUAGES the game can be played in (in this case, all the USA avaliable languages and all the PAL avaliable languages)
