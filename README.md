@@ -1,10 +1,11 @@
 LA LISTA
 
+VIVA CRISTO REY
 Buenos días apreciados humanos
-Me presento: no soy nadie, solo un chico a quien le gustan los idiomas.
+Me presento: no soy nadie, solo un chico a quien le gustan los idiomas. (@jocsh123 en YouTube)
 Al revivir el canal de InfoPrimates, me sentí con una felicidad que no había sentido desde su último video, y ellos no me decepcionaron. Su video: No estudies idiomas, juega videojuegos me abrió la mente.
 Como poseedor de una Wii (probablemente la consola más hackeable de nintendo) y aprendiz de inglés, decidí descarga... digo, comprar, todos mis juegos en la versión USA para practicar inglés, pero al reiniciar mi aprendizaje de Francés y Portugués, me dí cuenta de que debí haberlos desc... comprado en la versión PAL, lo cual empezé a poner en práctica, pero me temo que hasta el momento, solo he conseguido practicar la lectura en francés, no la escritura, el escuchar y el hablar.
-Y para eso he venido hoy, para pedirles a todos ustedes, conocedores hoomanos, ayuda, para hacer algo que durará por generaciones:
+Y para eso he venido hoy, para pedirles a todos ustedes, conocedores humanos, ayuda, para hacer algo que durará por generaciones:
 
 LA LISTA
 
